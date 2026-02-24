@@ -16920,6 +16920,12 @@
     githubId = 3579600;
     name = "Jacob Moody";
   };
+  MoonBurst = {
+    github = "MoonBurst";
+    name = "Moon Burst";
+    email = "MoonBurstPlays@gmail.com";
+    githubId = 27172308;
+  };
   moosingin3space = {
     email = "moosingin3space@gmail.com";
     github = "moosingin3space";
