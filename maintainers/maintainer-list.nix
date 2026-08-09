@@ -19099,6 +19099,13 @@
     githubId = 3579600;
     name = "Jacob Moody";
   };
+  moonburst = {
+    email = "moonburstplays@gmail.com";
+    github = "moonburst";
+    githubId = 27172308;
+    matrix = "@moonburst:moonburst.net";
+    name = "Moon Burst";
+  };
   mooses = {
     name = "Remu Salminen";
     github = "RemuSalminen";
